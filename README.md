@@ -3,8 +3,8 @@ Although there is no documentation at the moment, you will be able to see each s
 
 here a couple of screenshots of the results, an example of Amazon financial data extracted and serialized:
 
-<img src="images/df_res.jpeg" alt="Logo" width="700" height="500">
-<img src="images/chart_res.jpeg" alt="Logo" width="700" height="500">
+<img src="images/df_res.jpeg" alt="Logo" width="900" height="500">
+<img src="images/chart_res.jpeg" alt="Logo" width="900" height="500">
 
 
 ### -------------------------------------
